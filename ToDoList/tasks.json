@@ -1,0 +1,248 @@
+{
+  "month": "December",
+  "year": 2024,
+  "days": {
+    "2024-12-01": [
+      {
+        "id": 1,
+        "title": "Buy groceries",
+        "priority": "High",
+        "status": "Incomplete"
+      },
+      {
+        "id": 2,
+        "title": "Gym workout",
+        "priority": "Medium",
+        "status": "Completed"
+      }
+    ],
+    "2024-12-02": [
+      {
+        "id": 3,
+        "title": "Prepare presentation",
+        "priority": "High",
+        "status": "In progress"
+      },
+      {
+        "id": 4,
+        "title": "Call mom",
+        "priority": "Low",
+        "status": "Completed"
+      }
+    ],
+    "2024-12-03": [
+      {
+        "id": 5,
+        "title": "Finish reading book",
+        "priority": "Medium",
+        "status": "Incomplete"
+      }
+    ],
+    "2024-12-04": [
+      {
+        "id": 6,
+        "title": "Write project report",
+        "priority": "High",
+        "status": "Incomplete"
+      },
+      {
+        "id": 7,
+        "title": "Send email to manager",
+        "priority": "Medium",
+        "status": "Completed"
+      }
+    ],
+    "2024-12-05": [
+      {
+        "id": 8,
+        "title": "Attend team meeting",
+        "priority": "High",
+        "status": "Completed"
+      }
+    ],
+    "2024-12-06": [
+      {
+        "id": 9,
+        "title": "Buy birthday gift for Sarah",
+        "priority": "High",
+        "status": "Incomplete"
+      },
+      {
+        "id": 10,
+        "title": "Practice piano",
+        "priority": "Medium",
+        "status": "Completed"
+      }
+    ],
+    "2024-12-07": [
+      {
+        "id": 11,
+        "title": "Study for exams",
+        "priority": "High",
+        "status": "Incomplete"
+      }
+    ],
+    "2024-12-08": [
+      {
+        "id": 12,
+        "title": "Plan weekend trip",
+        "priority": "Medium",
+        "status": "Incomplete"
+      },
+      {
+        "id": 13,
+        "title": "Clean the house",
+        "priority": "Low",
+        "status": "Completed"
+      }
+    ],
+    "2024-12-09": [
+      {
+        "id": 14,
+        "title": "Complete assignment",
+        "priority": "High",
+        "status": "Incomplete"
+      }
+    ],
+    "2024-12-10": [
+      {
+        "id": 15,
+        "title": "Attend webinar",
+        "priority": "Medium",
+        "status": "Completed"
+      },
+      {
+        "id": 16,
+        "title": "Grocery shopping",
+        "priority": "Low",
+        "status": "Incomplete"
+      }
+    ],
+    "2024-12-11": [
+      {
+        "id": 17,
+        "title": "Submit project proposal",
+        "priority": "High",
+        "status": "Completed"
+      }
+    ],
+    "2024-12-12": [
+      {
+        "id": 18,
+        "title": "Plan office Christmas party",
+        "priority": "Medium",
+        "status": "Incomplete"
+      }
+    ],
+    "2024-12-13": [
+      {
+        "id": 19,
+        "title": "Finish reading articles",
+        "priority": "Low",
+        "status": "Incomplete"
+      }
+    ],
+    "2024-12-14": [
+      {
+        "id": 20,
+        "title": "Update resume",
+        "priority": "Medium",
+        "status": "Incomplete"
+      }
+    ],
+    "2024-12-15": [
+      {
+        "id": 21,
+        "title": "Study for exam",
+        "priority": "High",
+        "status": "Incomplete"
+      }
+    ],
+    "2024-12-16": [
+      {
+        "id": 22,
+        "title": "Visit dentist",
+        "priority": "Low",
+        "status": "Completed"
+      }
+    ],
+    "2024-12-17": [
+      {
+        "id": 23,
+        "title": "Prepare for presentation",
+        "priority": "High",
+        "status": "Incomplete"
+      }
+    ],
+    "2024-12-18": [
+      {
+        "id": 24,
+        "title": "Attend interview",
+        "priority": "High",
+        "status": "Completed"
+      }
+    ],
+    "2024-12-19": [
+      {
+        "id": 25,
+        "title": "Buy new laptop",
+        "priority": "Medium",
+        "status": "Incomplete"
+      }
+    ],
+    "2024-12-20": [
+      {
+        "id": 26,
+        "title": "Go for a run",
+        "priority": "Low",
+        "status": "Completed"
+      }
+    ],
+    "2024-12-21": [
+      {
+        "id": 27,
+        "title": "Wrap Christmas presents",
+        "priority": "High",
+        "status": "Incomplete"
+      }
+    ],
+    "2024-12-22": [
+      {
+        "id": 28,
+        "title": "Clean garage",
+        "priority": "Medium",
+        "status": "Completed"
+      }
+    ],
+    "2024-12-23": [
+      {
+        "id": 29,
+        "title": "Buy new shoes",
+        "priority": "Low",
+        "status": "Incomplete"
+      }
+    ],
+    "2024-12-24": [
+      {
+        "id": 30,
+        "title": "Prepare dinner for family",
+        "priority": "High",
+        "status": "Incomplete"
+      }
+    ],
+    "2024-12-25": [
+      {
+        "id": 31,
+        "title": "Celebrate Christmas",
+        "priority": "High",
+        "status": "Incomplete"
+      }
+    ],
+    "2024-12-26": [],
+    "2024-12-27": [],
+    "2024-12-28": [],
+    "2024-12-29": [],
+    "2024-12-30": [],
+    "2024-12-31": []
+  }
+}
